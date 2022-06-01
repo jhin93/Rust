@@ -1,6 +1,7 @@
 # Rust
 
-nft-login을 구현하기 위해 Rust를 공부하는 공간입니다.  
+Rust를 공부하는 공간입니다.  
+* nft로그인 
 https://github.com/nft-login/nft-login  
 
 3/13 
